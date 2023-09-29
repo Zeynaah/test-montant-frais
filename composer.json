@@ -1,0 +1,17 @@
+{
+    "name": "nguyen/test-montant-frais",
+    "description": "Test package",
+    "type": "library",
+    "license": "nokia",
+    "autoload": {
+        "psr-4": {
+            "Nguyen\\TestMontantFrais\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nguyen"
+        }
+    ],
+    "require": {}
+}
